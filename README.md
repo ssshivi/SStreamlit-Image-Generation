@@ -1,1 +1,1 @@
-# SStreamlit-Image-Generation
+# Streamlit-Image-Generation
